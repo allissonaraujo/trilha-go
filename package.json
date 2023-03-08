@@ -1,0 +1,27 @@
+{
+  "name": "trilha-go",
+  "version": "1.0.0",
+  "description": "Trilha de estudos de Go Lang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allissonaraujo/trilha-go.git"
+  },
+  "keywords": [
+    "go",
+    "go",
+    "lang"
+  ],
+  "author": "Allisson Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allissonaraujo/trilha-go/issues"
+  },
+  "homepage": "https://github.com/allissonaraujo/trilha-go#readme",
+  "devDependencies": {
+    "commitizen": "^4.3.0"
+  }
+}
